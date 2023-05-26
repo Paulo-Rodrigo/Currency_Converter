@@ -55,7 +55,7 @@ Para instalar e executar o projeto é necessário as seguintes dependências.
 
 ```sh
 # Instalação
-git clone https://github.com/wesleyallan/currency-converter.git
+git clone https://github.com/paulo-rodrigo/currency-converter.git
 cd currency-converter
 npm install
 

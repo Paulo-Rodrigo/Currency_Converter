@@ -22,12 +22,7 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/Wesley_AllanS" target="_blank">
-    <img alt="Twitter: Wesley_AllanS" src="https://img.shields.io/twitter/follow/Wesley_AllanS.svg?style=social" />
-  </a>
 </p>
-
-## [✨ Deploy](https://currencyconverter-wesleyallan.netlify.app/)
 
 ## 🚀 Tecnologias
 
@@ -74,12 +69,10 @@ Você pode acessar o layout do projeto do conversor de moeda através do [Figma]
 
 ## 👤 Autor
 
-**Wesley Silva**
+**Paulo Rodrigo**
 
-- Website: [wesleyallan.dev](https://wesleyallan.dev)
-- Twitter: [@Wesley_AllanS](https://twitter.com/Wesley_AllanS)
-- Github: [@wesleyallan](https://github.com/wesleyallan)
-- LinkedIn: [@wesleyallan](https://linkedin.com/in/wesleyallan)
+- Github: (https://github.com/paulo-rodrigo)
+- LinkedIn: (https://linkedin.com/in/paulo-rodrigo-a80081a9)
 
 ## Mostre seu apoio
 
